@@ -1,7 +1,7 @@
 {
-  "name": "decky-plugin-template",
-  "version": "0.0.1",
-  "description": "A template to quickly create decky plugins from scratch, based on TypeScript and webpack",
+  "name": "hidden-games-link",
+  "version": "1.0.0",
+  "description": "A shortcut to hidden games.",
   "scripts": {
     "build": "shx rm -rf dist && rollup -c",
     "watch": "rollup -c -w",
@@ -14,7 +14,6 @@
   "keywords": [
     "decky",
     "plugin",
-    "plugin-template",
     "steam-deck",
     "deck"
   ],
